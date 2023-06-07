@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>JavaScript GET API</title>
+	<script>
+		function getUser() {
+			// Creating the XMLHttpRequest object
+			var request = new XMLHttpRequest();
+
+			// Instantiating the request object
+			request.open("GET", "https://jsonplaceholder.typicode.com/todos/10");
+
+			// Defining event listener for readystatechange event
+			request.onreadystatechange = function () {
+				var response = {}
+				// Check if the request is compete and was successful
+				if (this.status == 200 && this.readyState == 4) {
+					try {
+						response = JSON.parse(this.response)
+					}
+					catch (exception) {
+						console.log("Parsing issue: ", exception)
+					}
+					if (response != null && response != "") {
+						console.log(response.title);
+						document.getElementById("result").innerHTML = this.responseText;
+					}
+				}
+			};
+
+			// Sending the request to the server
+			request.send();
+		}
+	</script>
+</head>
+
+<body>
+	<div id="result" style="background-color:lightgreen;width:300px;height:100px;padding:50px;">
+		<p>Click the Get button and then you get the user details based on the id</p>
+	</div>
+	<button type="button" onclick="getUser()">Get</button>
+</body>
+
+</html>

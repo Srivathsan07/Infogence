@@ -1,0 +1,29 @@
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/01_Login.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/02A_Manage-User.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/02Aa_Dashboard.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/02B_Manage-AddUser.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/02c_Manage-AddUser.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/03A_Roles & Permission.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/03B_Add_Edit_Roles & Permission.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/03B_Add_Roles&Permission.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04A_Manage Documents.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04A_Manage Theme.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04Aa_Add_document.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04Ab_document_Details.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04B_Add Edit Theme.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04Ba_Manage Chapter.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04Bb_Add_chapter.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04Bc_Chapter_Details.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04Ca_Manage Task.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04Cb_Add_Task.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/04Cc_Task_Details.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/06_Ca_Manage Task.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/06Aa_Manage Reports.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/06Ab_Manage Reports Detail.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/06Ba_Manage chapter.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/06Bc_Chapter_Details.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/06Cb_Add_Task.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/06Cc_Task_Details.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/07A_Change_Password.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/08_Profile.html
+https://cipldesigns.colaninfotechapps.in/Infogence/super%20admin/08A_Notification Settings.html
